@@ -39,24 +39,22 @@
 
  ----
 ### 🏆 ***Моя статистика:***
-<img width="99.5%" src="https://www.codewars.com/users/TinaevNK/badges/large">
 
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinaevnk&theme=github_dark">
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxferrain&theme=github_dark">
 
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinaevnk&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinaevnk&theme=github_dark">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxferrain&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxferrain&theme=github_dark">
 </div>
 
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinaevnk&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tinaevnk&theme=github_dark&utcOffset=8">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxferrain&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxferrain&theme=github_dark&utcOffset=8">
 </div>
 
-### ***Контакты:***
-### 📧 Почта: Nikkach1997@yandex.ru
-### 🌐 Telegram: [@tinaevnk](https://t.me/tinaevnk)
+### ***Contact me:***
+### 📧 Почта: mkru055@gmail.com
+### 🌐 Telegram: [@maxferrain](https://t.me/maxferrain)
 
-![stats](https://komarev.com/ghpvc/?username=tinaevnk&style=flat-square&color=blueviolet)
+![stats](https://komarev.com/ghpvc/?username=maxferrain&style=flat-square&color=blueviolet)
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
