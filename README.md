@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
 
 <p>
   <h1 align="center">Hey! I am 
@@ -15,7 +15,7 @@
 ### ***Education:***
 
 ***Bachelor's degree*** Bauman Moscoe State Technical University, Faculty of Robotics and Complex Automation (CAD/CAM)(BMSTU)
-***Master's degree*** National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) - INSTITUTE OF CYBER INTELLIGENCE SYSTEMS
+!***Master's degree*** National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) - INSTITUTE OF CYBER INTELLIGENCE SYSTEMS
 
 ### 🔨 ***Используемые языки и технологии:***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
