@@ -15,7 +15,7 @@
 ### ***Education:***
 
 ***Bachelor's degree*** Bauman Moscoe State Technical University, Faculty of Robotics and Complex Automation (CAD/CAM)(BMSTU)
-***Master's degree*** National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) - 
+***Master's degree*** National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) - INSTITUTE OF CYBER INTELLIGENCE SYSTEMS
 
 ### 🔨 ***Используемые языки и технологии:***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +28,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
  ----
 ### 🏆 ***Моя статистика:***
