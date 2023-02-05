@@ -18,7 +18,7 @@
 
 ***Master's degree*** National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) - INSTITUTE OF CYBER INTELLIGENCE SYSTEMS
 
-### 🔨 ***Используемые языки и технологии:***
+### 🔨 ***I use:***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
@@ -31,7 +31,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
  ----
-### 🏆 ***Моя статистика:***
+### 🏆 ***Stats:***
 
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxferrain&theme=github_dark">
 
