@@ -3,7 +3,7 @@
 <p>
   <h1 align="center">Hey! I am 
     <a href="https://t.me/maxferrain" target="_blank">
-      Maxim
+      Max
     </a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
   </h1>
@@ -14,7 +14,7 @@
 
 ### ***Education:***
 
-***Bachelor's degree*** Bauman Moscoe State Technical University, Faculty of Robotics and Complex Automation (CAD/CAM)(BMSTU)
+***Bachelor's degree*** Bauman Moscow State Technical University, Faculty of Robotics and Complex Automation (CAD/CAM)(BMSTU)
 
 ***Master's degree*** National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) - INSTITUTE OF CYBER INTELLIGENCE SYSTEMS
 
